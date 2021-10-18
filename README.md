@@ -23,7 +23,7 @@ The following **additional** features are implemented:
 * [ ] List anything else that you can get done to improve the app functionality!
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough:
 
 <img src='https://media.giphy.com/media/Tw4FLM8U2IDukNKtXC/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
@@ -32,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-One of the challenges were getting used to using Android Studio.
+One of the challenge wes getting used to using Android Studio, and getting errors in the code
 
 ## License
 
